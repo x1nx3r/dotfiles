@@ -1,0 +1,65 @@
+"0": ~/.config/alacritty/catppuccin/catppuccin-frappe.yml
+"1":
+  ? padding
+"2":
+  x: 10
+"3":
+  y: 10
+"4":
+  dynamic_padding: false
+"5":
+  decorations: none
+"6":
+  opacity: 0.7
+"7":
+  startup_mode: Windowed
+"8":
+  title: Alacritty
+"9":
+  dynamic_title: true
+"10":
+  instance: Alacritty
+"11":
+  general: Alacritty
+"12":
+  decorations_theme_variant: None
+"13":
+  history: 10000
+"14":
+  multiplier: 3
+"15":
+  normal:
+    - family: monospace
+    - style: Regular
+"16":
+  bold:
+    - family: monospace
+    - style: Bold
+"17":
+  italic:
+    - family: monospace
+    - style: Italic
+"18":
+  bold_italic:
+    - family: monospace
+    - style: Bold Italic
+"19":
+  size: 11
+"20":
+  ? offset
+"21":
+  x: 0
+"22":
+  y: 0
+window:
+  opacity: 0.7
+font:
+  size: 10
+colors:
+  primary:
+    background: "0x111122"
+    foreground: "0xccccff"
+  selection:
+    text: "0x111122"
+cursor:
+  style: Block
